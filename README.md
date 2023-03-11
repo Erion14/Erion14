@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Erion ADemi
-- 🌱 I’m currently learning Python and C#
+- 👋 Hi, I’m Erion Ademi
+- 🌱 I’m currently learning Python and Java
 - 📫 How to reach me erionn.ademi@gmail.com
 
 <!---
