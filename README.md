@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Erion Ademi
-- 🌱 I’m currently learning Python and Java
-- 📫 How to reach me erionn.ademi@gmail.com
+👋 Hey, I'm Erion Ademi
+
+🌱 Currently, I'm learning Java, especially focusing on functional programming. 
+
+📫 You can drop me a message at erionn.ademi@gmail.com.
+
+
+
 
 <!---
 Erion14/Erion14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
