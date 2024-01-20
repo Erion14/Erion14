@@ -1,6 +1,6 @@
 👋 Hey, I'm Erion Ademi
 
-🌱 Currently, I'm learning Java, especially focusing on functional programming. 
+🌱 Currently, I'm learning Java, currently focusing in Multithreading. 
 
 📫 You can drop me a message at erionn.ademi@gmail.com.
 
