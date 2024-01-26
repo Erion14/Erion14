@@ -12,7 +12,7 @@ I am a second-year student at RIT Kosovo, focusing on exploring Multithreading i
 ## 🎓 About Me:
 I'm passionate about software development and continuous learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square&logoColor=white)](Your LinkedIn Profile Link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/erion-ademi-b730a1230/)
 
 ## 💻 Tech Stack:
 ### Languages:
