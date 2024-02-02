@@ -11,7 +11,8 @@ I am a second-year student at RIT Kosovo, focusing on exploring Multithreading i
 - 🔍 Learning Algorithms and Data Structures
 
 ## 🎓 About Me:
-I'm passionate about software development and continuous learning.
+- Personal Website: https://erionademi.netlify.app/
+- I'm passionate about software development and continuous learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/erion-ademi-b730a1230/)
 
