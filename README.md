@@ -8,7 +8,7 @@ I am a second-year student at RIT Kosovo, focusing on exploring Multithreading i
 ## 🚀 What I'm Up To:
 - 🔍 Exploring Multithreading in Java
 - 📚 Focusing on other aspects of Java
-- 
+
 ## 🎓 About Me:
 - Personal email: erionn.ademi@gmail.com
 - Personal Website: https://erionademi.netlify.app/
@@ -36,3 +36,4 @@ I am a second-year student at RIT Kosovo, focusing on exploring Multithreading i
 - Stream API
 - Functional Programming
 - Object-Oriented Programming
+- Reactive Programming 
