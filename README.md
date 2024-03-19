@@ -3,11 +3,10 @@
 </div>
 
 ## 💫 About Me:
-I am a second-year student at RIT Kosovo, focusing on exploring Multithreading in Java and other aspects of Java programming.
+I am a second-year student at RIT Kosovo, mainly learning Java programming
 
 ## 🚀 What I'm Up To:
-- 🔍 Exploring Multithreading in Java
-- 📚 Focusing on other aspects of Java
+- 📚 Focusing on aspects of Java
 
 ## 🎓 About Me:
 - Personal email: erionn.ademi@gmail.com
@@ -36,4 +35,3 @@ I am a second-year student at RIT Kosovo, focusing on exploring Multithreading i
 - Stream API
 - Functional Programming
 - Object-Oriented Programming
-- Reactive Programming 
