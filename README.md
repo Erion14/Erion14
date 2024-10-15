@@ -3,10 +3,10 @@
 </div>
 
 ## 💫 About Me:
-I am a second-year student at RIT Kosovo, mainly learning Java programming
+I am a third-year student at RIT Kosovo, working at Quantix LLC
 
 ## 🚀 What I'm Up To:
-- 📚 Focusing on aspects of Java
+- 📚 Honing my .NET skills
 
 ## 🎓 About Me:
 - Personal email: erionn.ademi@gmail.com
