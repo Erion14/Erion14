@@ -29,13 +29,3 @@ I am a third-year student at RIT Kosovo, working at Quantix LLC
 
 ### Developer Tools:
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-
-### Frameworks:
-- Java Collections Framework
-
-## 🔧 Skills:
-- Multithreading
-- Input Output Streams
-- Stream API
-- Functional Programming
-- Object-Oriented Programming
