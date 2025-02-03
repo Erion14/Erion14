@@ -23,6 +23,10 @@ I am a third-year student at RIT Kosovo, working at Quantix LLC
 - [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/Java_(programming_language))
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
+### Frameworks & Libraries:  
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
+- ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=flat)
+
 ### Developer Tools:
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
