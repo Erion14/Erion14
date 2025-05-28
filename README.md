@@ -3,7 +3,7 @@
 </div>
 
 ## 💫 About Me:
-I am a third-year student at RIT Kosovo, working at Quantix LLC
+I am a fourth-year student at RIT Kosovo, working at Quantix LLC
 
 ## 🚀 What I'm Up To:
 - 📚 Honing my .NET skills
